@@ -1,0 +1,6 @@
+"./function.obj"
+"./isr_timerA2.obj"
+"./main.obj"
+"../lnk_msp430f5229.cmd"
+-llibmath.a
+-llibc.a
